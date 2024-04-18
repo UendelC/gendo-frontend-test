@@ -3,6 +3,8 @@ Este repositório é o teste para vaga de front-end developer na empresa [Gendo]
 
 ## Instruções
 
+Projeto disponível em: [Deploy](https://gendo-frontend-test.onrender.com/)
+
 obs.: É aconselhável que você esteja usando o Node.js na versão 20.12.1 e o npm na versão 10.5.0.
 
 1. Clone o repositório
